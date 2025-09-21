@@ -1,5 +1,6 @@
 ## Hi there 👋
-- 🔭 I’m currently working on simple_shell
+- 🔭 I’m currently working on Python and flask
+- I'm specialized in backend API.
 
 ## 🔨 Tech stack
 
