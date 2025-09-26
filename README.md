@@ -16,8 +16,8 @@
     <img src="https://img.shields.io/badge/GITHUB-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub badge">
     <img src="https://img.shields.io/badge/HTML5-e34f26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5 badge">
     <img src="https://img.shields.io/badge/MYSQL-4479a1?logo=mysql&logoColor=white&style=for-the-badge" alt="MySQL badge">
-    <img src="https://img.shields.io/badge/PYTHON-4479a1?logo=mysql&logoColor=white&style=for-the-badge" alt="PYTHON badge">
-    <img src="https://img.shields.io/badge/JAVASCRIPT-4479a1?logo=mysql&logoColor=white&style=for-the-badge" alt="JAVASCRIPT badge">
+    <img src="https://img.shields.io/badge/PYTHON-4479a1?logo=python&logoColor=white&style=for-the-badge" alt="PYTHON badge">
+    <img src="https://img.shields.io/badge/JAVASCRIPT-4479a1?logo=javascript&logoColor=white&style=for-the-badge" alt="JAVASCRIPT badge">
     <img src="https://img.shields.io/badge/SHELL SCRIPT-000000?logo=gnu-bash&logoColor=white&style=for-the-badge" alt="Shell Script badge">
 </p>
 <a href="https://github.com/antonkomarev/github-profile-views-counter/"><img src="https://komarev.com/ghpvc/?username=SebSa12000&label=Views" alt="GitHub views badge"></a>
