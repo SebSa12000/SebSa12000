@@ -1,6 +1,7 @@
 ## Hi there 👋
+- I'm student in Holberton School Toulouse.
+- I'm specialized in Backend API.
 - 🔭 I’m currently working on Python and flask
-- I'm specialized in backend API.
 
 ## 🔨 Tech stack
 
